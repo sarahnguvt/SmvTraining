@@ -16,3 +16,7 @@ $ _SMV_HOME_/tools/smv-run --run-app
 $ _SMV_HOME_/tools/smv-shell
 ```
 
+# Run App by stages
+```shell
+$ _SMV_HOME_/tools/smv-run -s stage1
+```
